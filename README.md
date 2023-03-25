@@ -1,3 +1,3 @@
 # ECU_Job
 
-## Contains sanitised simple CNN example from prior research assistant work
+Contains sanitised simple CNN example from prior research assistant work
